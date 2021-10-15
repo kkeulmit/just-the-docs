@@ -3,7 +3,7 @@ layout: default
 title: Technical Report
 nav_order: 2
 has_children: true
-permalink: /docs/technical-reports
+permalink: /docs/technical-reports/
 ---
 
 # Technical Reports
